@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Datasets & Model Weights (too large for GitHub)
+data/
+dataset/
+images/
+*.pth
+*.pt
+*.h5
+
+# Python cache & IDE files
+__pycache__/
+*.pyc
+.vscode/
+.ipynb_checkpoints/

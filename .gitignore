@@ -1,10 +1,14 @@
 # Virtual environments
-nkp_venv.venv/
+nkp_venv/
 
 # Datasets & Model Weights (too large for GitHub)
 data/
 dataset/
 images/
+-K/
+-N/
+-P/
+FN/
 *.pth
 *.pt
 *.h5
